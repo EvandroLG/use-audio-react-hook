@@ -1,0 +1,5 @@
+npm-debug.js
+.DS_store
+coverage
+dist
+node_modules
