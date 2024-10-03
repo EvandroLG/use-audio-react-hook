@@ -1,6 +1,6 @@
-# use-audio-hook &middot; [![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE)
+# use-audio-react-hook &middot; [![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE)
 
-`use-audio-hook` is a lightweight React hook for managing audio playback.
+`use-audio-react-hook` is a lightweight React hook for managing audio playback.
 It simplifies audio control by providing a simple API to play, pause, stop, toggle, and loop audio files.
 
 This hook is built on top of the [ts-audio](https://github.com/EvandroLG/ts-audio) library.
@@ -16,14 +16,14 @@ This hook is built on top of the [ts-audio](https://github.com/EvandroLG/ts-audi
 ## Installation
 
 ```bash
-npm install use-audio-hook
+npm install use-audio-react-hook
 ```
 
 ## Usage
 
 ```jsx
 import React from 'react';
-import useAudio from 'react-audio-hooks';
+import useAudio from 'use-audio-react-hook';
 
 const MyComponent = () => {
   const audio = useAudio({

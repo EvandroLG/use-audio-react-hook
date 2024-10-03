@@ -1,5 +1,5 @@
 {
-  "name": "use-audio-hook",
+  "name": "use-audio-react-hook",
   "version": "1.0.0",
   "description": "A lightweight React hook for managing audio playback.",
   "source": "src/index.ts",
