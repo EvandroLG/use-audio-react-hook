@@ -1,5 +1,5 @@
 {
-  "name": "react-use-audio",
+  "name": "use-audio-hook",
   "version": "1.0.0",
   "description": "A React hook for playing audio files.",
   "source": "src/index.ts",
