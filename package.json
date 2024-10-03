@@ -1,7 +1,7 @@
 {
   "name": "use-audio-hook",
   "version": "1.0.0",
-  "description": "A React hook for playing audio files.",
+  "description": "A lightweight React hook for managing audio playback.",
   "source": "src/index.ts",
   "main": "dist/index.cjs",
   "module": "dist/index.module.js",
